@@ -564,7 +564,7 @@ section {
     text-transform: uppercase;
 }
 
-/* ===== MUSIC SECTION ===== */
+
 .music-section {
     background: rgba(85, 107, 74, 0.5);
 }
@@ -843,7 +843,7 @@ textarea.pixel-input {
     animation: float 4s ease-in-out infinite;
 }
 
-/* ===== CLOUDS ===== */
+
 .clouds {
     position: fixed;
     top: 0;
