@@ -247,6 +247,6 @@ pageInStyle.textContent = `
 `;
 document.head.appendChild(pageInStyle);
 
-console.log('🎮 Welcome to Bria\'s Graduation Adventure! 🎮');
-console.log('🎉 Press C to celebrate!');
-console.log('🎊 Press M for confetti!');
+console.log(' Welcome to Bria\'s Graduation Adventure! ');
+console.log(' Press C to celebrate!');
+console.log(' Press M for confetti!');
